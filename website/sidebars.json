@@ -1,0 +1,12 @@
+{
+  "docs": {
+    "Початок": [
+      "index"
+    ],
+    "Основне": [
+      "general/characteristics",
+      "general/sources",
+      "general/windows"
+    ]
+  }
+}
