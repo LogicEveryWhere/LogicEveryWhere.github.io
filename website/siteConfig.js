@@ -32,7 +32,7 @@ const siteConfig = {
   description: 'База знань ЖК Great, телеграм ЖК Great, форум ЖК Great',
 
   // Used for publishing and more
-  projectName: 'great.pp',
+  projectName: 'great-pp',
   organizationName: 'LogicEveryWhere',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
