@@ -43,7 +43,7 @@ const siteConfig = {
     {doc: 'index', label: 'База знаннь'},
     // {doc: 'doc4', label: 'API'},
     // {page: 'help', label: 'Help'},
-    // {blog: true, label: 'Новини'},
+    {blog: true, label: 'Новини'},
     {search: true},
   ],
 
