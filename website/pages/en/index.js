@@ -39,6 +39,7 @@ class HomeSplash extends React.Component {
             <h2 className="projectTitle">
                 {siteConfig.title}
                 <small>{siteConfig.tagline}</small>
+                <small><i>Даний сайт не є офіційним</i></small>
             </h2>
         );
 
@@ -67,6 +68,7 @@ class HomeSplash extends React.Component {
                         <Button href={docUrl('index')}>База знань</Button>
                         <Button href="/blog">Новини</Button>
                     </PromoSection>
+
                 </div>
             </SplashContainer>
         );
