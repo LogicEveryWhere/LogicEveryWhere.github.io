@@ -7,7 +7,7 @@ title: Джерела Інформації
 
 - Сайт забудовника: [офіційний сайт](https://great.com.ua/)
 - Офіцийна сторінка забудовника в [facebook](https://www.facebook.com/great.com.ua/)
-- Офіцийний Телеграм канал: [@zhk_Great_official](https://t.me/zhk_Great_official)
+- Офіційний Телеграм канал: [@zhk_Great_official](https://t.me/zhk_Great_official)
 - Телеграм чат інвесторів: [@ZHK_Great](https://t.me/ZHK_Great)
 - Lun.ua: [Комплекс](https://novostroyki.lun.ua/uk/%D0%B6%D0%BA-great-%D0%BA%D0%B8%D1%97%D0%B2)
 
