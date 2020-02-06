@@ -14,8 +14,8 @@ title: Вікна
 
 - для 3-4 будинку (3тій не типовий поверх):
 
-![](/windowsill-3-floor.JPG)
+![](/files/windowsill-3-floor.JPG)
 
 - для 3-4 будинку (4-24тий типовий поверх):
 
-![](/windowsill-4-24-floor.JPG)
+![](/files/windowsill-4-24-floor.JPG)
