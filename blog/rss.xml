@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>ЖК Great Інвестори Blog</title>
+        <link>https://great.pp.ua/blog</link>
+        <description>ЖК Great Інвестори Blog</description>
+        <lastBuildDate>Tue, 04 Feb 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ми запустились]]></title>
+            <link>https://great.pp.ua/blog/2020/02/04/start</link>
+            <guid>Ми запустились</guid>
+            <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Перша новина!]]></description>
+        </item>
+    </channel>
+</rss>
