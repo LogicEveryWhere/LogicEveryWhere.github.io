@@ -7,3 +7,6 @@ title: Основні Характеристики
 
 ![](/files/general.jpg)
 
+![](/files/general2.JPG)
+
+
