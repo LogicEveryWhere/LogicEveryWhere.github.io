@@ -11,7 +11,7 @@
   "devDependencies": {
     "docusaurus": "^1.14.4",
     "gulp-imagemin": "^7.1.0",
-    "highlight.js": "^10.7.1",
+    "highlight.js": "^10.4.1",
     "imagemin-jpegtran": "^6.0.0",
     "imagemin-pngquant": "^8.0.0",
     "pngquant-bin": "^5.0.2",
