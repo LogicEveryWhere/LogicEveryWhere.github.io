@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{70:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u041c\u0438 \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u043b\u0438\u0441\u044c","permalink":"/great-pp/blog/2020/02/04/start"}]}')}}]);
