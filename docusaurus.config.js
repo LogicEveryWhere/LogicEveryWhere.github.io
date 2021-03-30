@@ -2,7 +2,7 @@ module.exports={
   "title": "ЖК Great Інвестори",
   "tagline": "Інформаційний портал комплексу",
   "url": "https://great.pp.ua",
-  "baseUrl": "/",
+  "baseUrl": "/great-pp/",
   "organizationName": "logiceverywhere",
   "projectName": "great-pp",
   "scripts": [
