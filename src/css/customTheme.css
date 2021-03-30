@@ -1,0 +1,13 @@
+:root{
+  --ifm-color-primary-lightest: #A94189;
+  --ifm-color-primary-lighter: #953979;
+  --ifm-color-primary-light: #8F3774;
+  --ifm-color-primary: #823269;
+  --ifm-color-primary-dark: #752D5E;
+  --ifm-color-primary-darker: #6E2B59;
+  --ifm-color-primary-darkest: #5B234A;
+}
+html[data-theme='dark'] {
+  --ifm-color-primary: rgba(130, 50, 105, 0.56);
+  --ifm-color-primary-dark: rgba(117, 45, 94, 0.56);
+}

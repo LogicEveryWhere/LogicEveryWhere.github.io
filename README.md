@@ -1,1 +1,0 @@
-# LogicEveryWhere.github.io
